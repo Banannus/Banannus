@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Banannus</h1>
 <h3 align="center">A developer from Denmark who works with full-stack development, as well as Java, Lua, and much more.</h3>
 
-- 🔭 I’m currently working on [a Gang Menu for FiveM](https://discord.gg/3VsS2Hxcz2)
+- 🔭 I’m currently working on [a crafting menu for FiveM](https://discord.gg/3VsS2Hxcz2)
 
 - 🌱 I’m currently learning **Svelte**
 
